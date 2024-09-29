@@ -1,15 +1,15 @@
 # This is a comment
 
-##Projects
+Projects
 
-###Project 1
+Project 1
 - Description
 - Links
 
-###Project 2
+Project 2
 - Description
 - Links
 
-###Project 3
+Project 3
 - Description
 - Links
