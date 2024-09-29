@@ -4,7 +4,7 @@
 
 ## Project 1
 - Description
-- Links
+- [Video Tutorials](https://www.youtube.com/watch?v=ExpD-FKXsrI)
 
 ## Project 2
 - Description
