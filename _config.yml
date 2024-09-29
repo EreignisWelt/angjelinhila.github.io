@@ -15,7 +15,7 @@ title: EreignisWelt
 
 # Your name to show in the footer
 author: Angjelin Hila
-
+theme: jekyll-theme-minimal
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
