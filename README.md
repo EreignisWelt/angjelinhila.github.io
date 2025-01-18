@@ -12,8 +12,13 @@
 - Types of Analyses: Sentiment Analysis, Topic Modelling, Network Analaysis
 - Links
 
+## Qulaitivative Coding with LLMs: Hubrid Agential Systems 
+
 ## Data Visualization 
-- A project geared toward visualizing data patterns gleaned from online data
+- Social Network and Social Science Vizualizations
+- Creative Visualizations with speculative data
+- Kant's System of Transcendtal Idealism
+- Data Art and Creative Visualizations
 - Libraries: D3.js, Plotly, R
 
 ## Vector Art & Animation
