@@ -13,6 +13,9 @@
 - Links
 
 ## Qulaitivative Coding with LLMs: Hubrid Agential Systems 
+- Loop LLMs in Qualitative Coding workflows
+- Develop robust Hybrid-Agentive Systems that abstract domain-specific coding schemas
+- Generalize schemas 
 
 ## Data Visualization 
 - Social Network and Social Science Vizualizations
